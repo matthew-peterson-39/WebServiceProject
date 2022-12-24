@@ -25,8 +25,8 @@ body {
 }
 
 #input-fields {
-  height: 50vh;
-  width: 50vw;
+  height: 80vh;
+  width: 80vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
