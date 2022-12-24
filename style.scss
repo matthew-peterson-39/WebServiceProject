@@ -12,7 +12,9 @@ body {
     align-items: center;
     justify-content: center;
 }
-
+.title {
+    margin: 10px;
+}
 #input-fields {
     height: 100%;
     width: 100%;
@@ -32,6 +34,12 @@ body {
     padding: 1%;
     justify-content: center;
     justify-content: space-between;
+}
+@media (min-width: 600px) {
+    .section{
+        width: 50%;
+        height: 50%;
+    }
 }
 
 #button {
